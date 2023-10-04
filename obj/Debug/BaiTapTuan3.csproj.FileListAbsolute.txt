@@ -1,0 +1,11 @@
+D:\BaiTapTuan3\bin\Debug\BaiTapTuan3.exe.config
+D:\BaiTapTuan3\bin\Debug\BaiTapTuan3.exe
+D:\BaiTapTuan3\bin\Debug\BaiTapTuan3.pdb
+D:\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.AssemblyReference.cache
+D:\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.SuggestedBindingRedirects.cache
+D:\BaiTapTuan3\obj\Debug\BaiTapTuan3.Form1.resources
+D:\BaiTapTuan3\obj\Debug\BaiTapTuan3.Properties.Resources.resources
+D:\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.GenerateResource.cache
+D:\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.CoreCompileInputs.cache
+D:\BaiTapTuan3\obj\Debug\BaiTapTuan3.exe
+D:\BaiTapTuan3\obj\Debug\BaiTapTuan3.pdb
